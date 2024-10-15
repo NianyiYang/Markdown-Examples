@@ -60,7 +60,7 @@ class Test {
 
 这是一个图片示例
 
-![图片示例](http://static.runoob.com/images/runoob-logo.png)
+![图片](https://img.shields.io/badge/Markdown-%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87-green)
 
 ---
 
